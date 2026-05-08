@@ -6,9 +6,10 @@ Este proyecto simula medidores de consumo eléctrico para dos domicilios en **Pr
 
 ### 1. Requisitos de Software
 * **Python 3.x**: Instalar librerías con `pip install -r bridges/requirements.txt`
-* **Proteus 8.13+**: [Guía de instalación](https://www.youtube.com/watch?v=s1XB4vhJDqI)
 * **Arduino IDE**: Para compilar el código `.ino`
+* **Proteus 8.13+**: [Guía de instalación](https://www.youtube.com/watch?v=s1XB4vhJDqI)
 * **VSPE (Virtual Serial Port Driver)**: Necesario para los puertos virtuales.
+* **Instalador de Proteus y VSPE**:  [Instalables](https://drive.google.com/drive/folders/1AvDNC8VeEFvVP2i_Fgh-rcRkQikiX4Gv?usp=sharing)
 
 ### 2. Configuración de Puertos Virtuales (VSPE)
 Antes de iniciar la simulación, configurar los siguientes pares en **VSPE**:

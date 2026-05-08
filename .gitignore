@@ -1,0 +1,10 @@
+# Seguridad: No subir la llave real de Firebase
+firebase-key.json
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de respaldo de Proteus
+*.pdsbak
+*.lastclark
